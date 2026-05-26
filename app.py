@@ -1,5 +1,5 @@
 #Simple Python program
-
+#adding 2
 # Function to greet a user
 def greet(name):
     print(f"Hello world name, {name}!")
