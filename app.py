@@ -1,4 +1,4 @@
-# hi Simple Python program
+#Simple Python program
 
 # Function to greet a user
 def greet(name):
